@@ -117,7 +117,7 @@ Todo el código está contenido en un único notebook de Jupyter (`.ipynb`), pre
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/telecom-churn-analysis.git
+   git clone https://github.com/emanuelsandez/challenge2-data-science-LATAM
    ```
 2. Instala las dependencias necesarias:
    ```bash
